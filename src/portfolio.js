@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Anni HUANG's Portfolio",
     type: "website",
-    url: "https://widesu.github.io/masterPortfolio/",
+    url: "https://widesu.github.io/",
   },
 };
 
@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/WideSu/masterPortfolio",
+  portfolio_repository: "https://github.com/WideSu/widesu.github.io",
   githubProfile: "https://github.com/WideSu",
 };
 
