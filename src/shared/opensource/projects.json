@@ -1,39 +1,35 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "MDEwOlJlcG9zaXRvcnkzNDE0MDkzNjU=",
+      "name": "Stock-recommandation-via-machine-learning-algorithms",
+      "createdAt": "2021-02-23T02:58:17Z",
+      "url": "https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms",
+      "description": "I utilized some supervised machine learning models to choose stocks, such as Logistic Regression, Random Forest, and Support Vector Machine.  With these models, I can predict the stock’s 60 days’ return rate. If a specific stock outperformed the average return rate, the model would recommend holding the position. The data is from stocks of the listed companies in China from Tushare’ API, which is a financial data platform.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "R_kgDOHGkh-Q",
+      "name": "CS606_ITC",
+      "createdAt": "2022-04-01T09:14:41Z",
+      "url": "https://github.com/WideSu/CS606_ITC",
+      "description": "The university timetabling is a classical combinatorial optimization problem that takes a large number of variables and constraints into account. Student allocating and class scheduling decisions need to be made jointly against the backdrop of classroom and timeslot penalty and subject to practical rules. We model this problem as a two-stage mixed integer program which search for a feasible solution at the start and graduately improve from it iteratively, which reduced the time to get optimal solution by 58\\%. Besides, we used a constraint programming method with the same objective function and constraints and compared the results for the two methods on 2019 ITC datasets. A comparison with results reported in this passage shows that the MIP approach outperformed the constraint programming approach in faster speed and better solution.",
       "isFork": false,
       "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
         {
           "name": "Python",
           "iconifyClass": "logos-python"
@@ -41,39 +37,17 @@
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "R_kgDOGu5JKg",
+      "name": "CreditRiskDetection",
+      "createdAt": "2022-01-25T10:01:26Z",
+      "url": "https://github.com/WideSu/CreditRiskDetection",
+      "description": "Used 4 machine learning models namely Logistic Regression, SVM, Random Forest and LGBM and one deep learning model namely DeepFM to classify whether an applicant is capable to pay a loan.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
@@ -81,34 +55,20 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTUyNDk3Mzg=",
+      "name": "Data-Science-Tutorial",
+      "createdAt": "2020-11-23T08:36:30Z",
+      "url": "https://github.com/WideSu/Data-Science-Tutorial",
+      "description": "This is a repo of notes and projects I have done for seeking a python developer / machine learning engineer job in big tech company next year. It includes Algorithms on LeetCode, SQL in HackerRank, and tricks in Python.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     }
