@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "anniportfolio",
-  "homepage": "https://github.com/WideSu/WideSu.github.io/masterPortfolio",
+  "homepage": "https://widesu.github.io/masterPortfolio/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
