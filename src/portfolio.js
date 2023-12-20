@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Anni HUANG's Portfolio",
     type: "website",
-    url: "https://widesu.github.io/",
+    url: "https://widesu.github.io/masterPortfolio/",
   },
 };
 
