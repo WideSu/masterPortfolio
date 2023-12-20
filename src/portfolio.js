@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "AnniHuang",
   nickname: "Anni",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A research scientist in A*STAR Joint Lab (AI in Healthcare) aspiring to be a data engineer. Experienced in managing data warehouses, full stack software development, explainable machine learning, data engineering, data analytics and managing cloud architectures on AWS.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/1rB99OdQYrNfa0NO3z2kouTwCRLClqPUY/view?usp=drive_link",
   portfolio_repository: "https://github.com/WideSu/widesu.github.io",
   githubProfile: "https://github.com/WideSu",
 };
@@ -321,7 +321,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/widesu/",
     },
     {
       siteName: "HackerRank",
@@ -329,31 +329,31 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/@annihuang.2021",
     },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
+    // {
+    //   siteName: "Codechef",
+    //   iconifyClassname: "simple-icons:codechef",
+    //   style: {
+    //     color: "#5B4638",
+    //   },
+    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    // },
+    // {
+    //   siteName: "Codeforces",
+    //   iconifyClassname: "simple-icons:codeforces",
+    //   style: {
+    //     color: "#1F8ACB",
+    //   },
+    //   profileLink: "http://codeforces.com/profile/layman_brother",
+    // },
     {
       siteName: "Hackerearth",
       iconifyClassname: "simple-icons:hackerearth",
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.hackerearth.com/annihuang",
     },
     {
       siteName: "Kaggle",
@@ -361,7 +361,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.kaggle.com/huanganniwww",
     },
   ],
 };
@@ -369,30 +369,30 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "Singapore Management University",
+      subtitle: "Master of IT in Business(Artificial Intelligence Track)",
+      logo_path: "smu_logo.png",
+      alt_name: "SMU",
+      duration: "2021 - 2022",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Applied Machine Learning, Natrual Language Processing, Computer Vision, Recommendation System, etc.",
+        "⚡ Apart from this, I have also done internship as machine learning engineer in IKAS industry.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.smu.edu.sg/",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "Huaqiao University",
+      subtitle: "Bachelor in Computer Science",
+      logo_path: "huaqiao_univ_logo.png",
+      alt_name: "HQU",
+      duration: "2017 - 2021",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I have studied basic software engineering and programming languages like C++, Java, DS, Algorithms, DBMS, OS, Network etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development using Java, Spring Boot and Bootstrap.",
+        "⚡ I attened many competitions, e.g. 2019 Huawei National Compiler Design Contest (79/100 in final round) - Team Leade",
+        "⚡ I am still active as an alumni from HQU, 2022-Present One of the directors for Huaqiao University Alumni Association in Singapore",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://wsc.hqu.edu.cn/info/1137/3899.htm",
     },
   ],
 };
@@ -724,7 +724,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "LinkedIn_Profile_Transparent.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
@@ -732,24 +732,23 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://huanganni.hashnode.dev/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    subtitle: "Singapore",
+    locality: "Singapore",
+    country: "SG",
+    region: "",
+    postalCode: "",
+    streetAddress: "81 Victoria St, Singapore 188065",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/3xRDtQgJMGRKDjc67",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Phone",
+    subtitle: "+65 86199629",
   },
 };
 
